@@ -1,2 +1,2 @@
 class Cat 
-  att
+  attr_accessor
